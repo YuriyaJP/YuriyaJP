@@ -6,9 +6,7 @@ My background combines psychology, behavioural science and data science.
 
 ### What I work on
 
-* **People Analytics** — workforce reporting, retention, turnover, people wellbeing metrics, organisational data
-* **Behavioural Science** — experiments, survey analysis, statistical testing, human behaviour
-* **NLP** — all things language, voice, semantics
+* **People Analytics** * **Behavioural Science** * **NLP** 
 
 ### Selected Work
 

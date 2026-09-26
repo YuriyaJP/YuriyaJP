@@ -6,7 +6,7 @@ My background combines psychology + linguistics, behavioural science and data sc
 
 ### What I work on
 
-* **People Analytics** * **Behavioural Science** * **NLP** 
+**People Analytics** · **Behavioural Science** · **NLP**
 
 ### Projects
 

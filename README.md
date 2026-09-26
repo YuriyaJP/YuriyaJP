@@ -10,13 +10,13 @@ My background combines psychology + linguistics, behavioural science and data sc
 
 ### Projects
 
-**[Employee Attrition Risk Predictor](https://github.com/YuriyaJP/employee-attrition-analysis)**
+**[Employee Attrition Risk Prediction Model](https://github.com/YuriyaJP/employee-attrition-analysis)**
 Built an HR reporting and analytics system for predicting when an employee is likely to leave the company.
 
 **[Suicide Prevention Programme Cost-Effectiveness Modelling](https://github.com/YuriyaJP/japan-suicide-statistics-program-effectiveness-analysis)**
 Built a DALY-based cost-effectiveness model using 20 years of Japanese suicide data combined with programme data to evaluate mental-health interventions.
 
-**[Mental Health NLP](https://github.com/YuriyaJP/mental-health-mindtrack-pipeline)**
+**[Mental Health NLP Agent](https://github.com/YuriyaJP/mental-health-mindtrack-pipeline)**
 Built a multimodal mental-health journaling agent combining speech-to-text, vocal prosody, NLP, LLM reasoning, and safety filtering. The system includes local processing, short-term conversational memory, and fairness/robustness evaluation.
 
 

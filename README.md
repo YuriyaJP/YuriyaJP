@@ -2,18 +2,18 @@
 
 I work with data to understand **people, organisations, and how they work**.
 
-My background combines psychology, behavioural science and data science.
+My background combines psychology + linguistics, behavioural science and data science.
 
 ### What I work on
 
 * **People Analytics** * **Behavioural Science** * **NLP** 
 
-### Selected Work
+### Projects
 
 **[Employee Attrition Risk Predictor](https://github.com/YuriyaJP/employee-attrition-analysis)**
 Built an HR reporting and analytics system for predicting when an employee is likely to leave the company.
 
-**[Cost-Effectiveness Modelling](https://github.com/YuriyaJP/japan-suicide-statistics-program-effectiveness-analysis)**
+**[Suicide Prevention Programme Cost-Effectiveness Modelling](https://github.com/YuriyaJP/japan-suicide-statistics-program-effectiveness-analysis)**
 Built a DALY-based cost-effectiveness model using 20 years of Japanese suicide data combined with programme data to evaluate mental-health interventions.
 
 **[Mental Health NLP](https://github.com/YuriyaJP/mental-health-mindtrack-pipeline)**
